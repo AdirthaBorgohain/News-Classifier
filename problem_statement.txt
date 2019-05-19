@@ -1,0 +1,19 @@
+News category classification
+
+
+Given is a dataset of news and their respective categories. The csv file news_data.csv consists of two columns "text" and "category".
+You need to build a classification model for news classification.
+
+Build a classification model with an algorithm of your choice. you will need to report the metrics as well as the reason behind choosing the algorithm.
+
+Submit your code in a well commented jupyter notebook.
+
+You will be evaluated on - 
+	- code design
+	- code modularity
+	- presentation of your results
+	- code readability
+	- data cleaning
+	- model building
+	- model evaluation
+
